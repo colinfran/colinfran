@@ -13,4 +13,4 @@ I'm currently a **Software Engineer / Web Developer** at **[@Gap](https://www.ga
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning about Microfrontends and Module Federation
 - 💬 Ask me about anything related to Javascript/React.js/React Native
-- ⚡ Fun fact: I :heart: :cat:
+- ⚡ Fun fact: I ❤️️ 🐈
