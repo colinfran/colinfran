@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://colinfran.com">Website</a> •
   <a href="https://linkedin.com/in/colinfranceschini">LinkedIn</a> •
-  <a href="mailto:colin.franceschini@gmail.com">Email</a>
+  <a href="mailto:hello@colinfran.com">Email</a>
 </p>
 
 ---
