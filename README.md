@@ -8,7 +8,7 @@
 
 ---
 
-I'm currently a **Software Engineer / Web Developer** at **[@Gap Inc](https://www.gapinc.com)**  <br />
+I'm currently a **Senior Software Engineer** at **[@Gap Inc](https://www.gapinc.com)**  <br />
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning about Microfrontends and Module Federation
