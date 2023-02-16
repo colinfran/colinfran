@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Colin</h3>
 <p align="center">
-  <a href="https://colinfran.com?utm_source=github&utm_medium=social">Website</a> •
+  <a href="https://colinfran.com">Website</a> •
   <a href="https://linkedin.com/in/colinfranceschini">LinkedIn</a> •
   <a href="mailto:hello@colinfran.com">Email</a>
 </p>
