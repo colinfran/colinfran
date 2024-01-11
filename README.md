@@ -8,7 +8,7 @@
 
 ---
 
-I'm a **Senior Software Engineer** at **[@Gap Inc](https://www.gapinc.com)**  <br />
+I'm a **Software Engineer** at **[HP](https://www.hp.com/)**  <br />
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning about Microfrontends and Module Federation
