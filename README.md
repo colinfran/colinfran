@@ -11,6 +11,6 @@
 I'm a **Software Engineer** at **[HP](https://www.hp.com/)**  <br />
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning about Microfrontends and Module Federation
+- 🌱 I’m currently learning golang
 - 💬 Ask me about anything related to Javascript/React.js/React Native/Typescript
 - ⚡ Fun fact: I ❤️️ 🐈
